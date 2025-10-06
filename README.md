@@ -58,9 +58,9 @@ Demonstrate real-time animation and interactive event handling.
 Build a foundation for game development and simulation software using OpenGL.
 
 🧑‍💻 Developed By
-Name	Student ID
-Naiyer Nur Fairoz	23-50227-1
-Md Rakibul Islam Ayon	23-50236-1
+
+Naiyer Nur Fairoz	(23-50227-1)
+Md Rakibul Islam Ayon	(23-50236-1)
 
 Instructor: Naboranjan Dey
 Course: CSC4118 – Computer Graphics
