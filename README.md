@@ -1,5 +1,4 @@
 # ✈️ Airplane Crasher
-Here’s a polished GitHub README introduction and description for your project “Airplane Crasher”, written to look professional and engaging — perfect for your repository front page:
 
 ✈️ Airplane Crasher
 A 2D OpenGL-based Fighter Jet Game built with C++
