@@ -2,6 +2,7 @@
 
 ✈️ Airplane Crasher
 A 2D OpenGL-based Fighter Jet Game built with C++
+
 🧩 Overview
 
 Airplane Crasher is an interactive 2D arcade-style game developed using C++, OpenGL, and GLUT.
