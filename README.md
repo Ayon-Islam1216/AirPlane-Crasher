@@ -64,7 +64,7 @@ Md Rakibul Islam Ayon	23-50236-1
 
 Instructor: Naboranjan Dey
 Course: CSC4118 – Computer Graphics
-Semester: Spring 2024–2025
+Semester: Summer 2024–2025
 
 🖼️ Screenshots
 
